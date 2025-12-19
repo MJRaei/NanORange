@@ -1,4 +1,4 @@
-# NanORange-dev
+# NanORange
 
 <p align="center">
   <img src="docs/nanorange.gif" alt="NanORange Demo" width="800">
@@ -14,7 +14,7 @@ Clone the repository and create a virtual environment:
 
 ```bash
 git clone <REPO_URL>
-cd NanORange-dev
+cd NanORange
 
 # Create virtual environment (only needed once)
 python3.11 -m venv .venv
