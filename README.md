@@ -1,5 +1,9 @@
 # NanORange-dev
 
+<p align="center">
+  <img src="docs/nanorange.gif" alt="NanORange Demo" width="800">
+</p>
+
 ## Requirements
 
 - Python `>=3.11,<3.12`
